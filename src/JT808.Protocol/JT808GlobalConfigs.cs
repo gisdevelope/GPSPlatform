@@ -2,7 +2,6 @@
 using JT808.Protocol.JT808Formatters;
 using JT808.Protocol.JT808Formatters.MessageBodyFormatters;
 using JT808.Protocol.MessageBody;
-using JT808.Protocol.MessageBody;
 using JT808.Protocol.MessageBody.JT808LocationAttach;
 using System;
 using System.Text;
